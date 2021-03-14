@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PillChill</string>
+    <string name="pill_scan_button">Scan Pills</string>
+    <string name="schedule_button">Schedule</string>
+    <string name="alternative_remedies_button">Alternative Remedies</string>
+    <string name="schedule_page_title">Schedule</string>
+    <string name="alternative_remedies_title">Alternative Remedies</string>
+    <string name="alt_remedies_home_button">Home</string>
+    <string name="edit_schedule_button">Edit Schedule</string>
+    <string name="schedule_home_button">Home</string>
+    <string name="medication_name_text">Medication Name</string>
+    <string name="time_text">Time</string>
+    <string name="custom_notif_text">Custom Message</string>
+    <string name="date_title_text">Set Date</string>
+</resources>
